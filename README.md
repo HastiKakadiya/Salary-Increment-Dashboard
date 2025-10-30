@@ -48,7 +48,7 @@ The goal of this dashboard is to provide **HR professionals and management** wit
 ## 🗂️ Repository Includes
 - **`SKMEI_Employement_Salary_Incremental_Dashboard.pbix`** – Main Power BI file  
 - **`HR_Employee_Performance_Final.xlsx`** – Sample dataset used for the dashboard  
-- **`SKMEI_Employement_Salary_Incremental_Dashboard.pdf`** – Dashboard Visuals PDF
+- **`SKMEI_Employement_Incremental_Dashboard.pdf`** – Dashboard Visuals PDF
 - **`model_employee_and_salary.png`** - Power BI data model view
 - **`README.md`** – Project documentation  
 
