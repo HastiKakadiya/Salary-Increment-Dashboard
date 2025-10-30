@@ -25,7 +25,7 @@ It is designed to help **HR teams and management** make informed, data-driven de
 
 ## ⚙️ Tools & Technologies Used
 - **Power BI Desktop** – For building and visualizing dashboards  
-- **Excel / CSV** – For data input and transformation  
+- **Excel** – For data input and transformation  
 - **DAX (Data Analysis Expressions)** – For creating custom KPIs and measures  
 
 ---
