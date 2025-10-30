@@ -63,8 +63,8 @@ The goal of this dashboard is to provide **HR professionals and management** wit
 
 ## 📬 Contact
 **Author:** Hasti Kakadiya  
-📧 Email: [Your Email Here]  
-🌐 LinkedIn / GitHub: [Add your profile links here]  
+📧 Email: hastikakadiya9@gmail.com 
+🌐 LinkedIn: https://www.linkedin.com/in/hasti-kakadiya-383031300/
 
 ---
 
