@@ -46,7 +46,7 @@ The goal of this dashboard is to provide **HR professionals and management** wit
 ---
 
 ## 🗂️ Repository Includes
-- 📁 **`Salary_Increment_Dashboard.pbix`** – Main Power BI file  
+- 📁 **`SKMEI_Salary_Operations_Dashboard.pbix`** – Main Power BI file  
 - 📊 **`EmployeeData.xlsx`** – Sample dataset used for the dashboard  
 - 📝 **`README.md`** – Project documentation  
 - 🖼️ **Dashboard Preview Images** – Screenshots of the visuals  
